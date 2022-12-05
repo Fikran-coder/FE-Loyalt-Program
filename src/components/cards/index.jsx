@@ -1,7 +1,6 @@
 import React from "react";
 import { Card } from "antd";
 import { AiOutlineUser } from "react-icons/ai";
-import { BsFillArrowRightCircleFill } from "react-icons/bs";
 
 const Cards = () => {
   return (

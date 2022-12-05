@@ -1,7 +1,10 @@
-export { default as Navbar } from "./Navbar";
+export { default as Navbar } from "./navbar";
 export { default as Cards } from "./cards";
 export { default as Clanding } from "./contentlanding";
 export { default as CardF } from "./cardfitur";
 export { default as CardP } from "./cardprofile";
-export { default as NavbarBack } from "./NavbarBack";
-export { default as Carousel } from "./carousel";
+export { default as NavbarBack } from "./navbarback";
+export { default as Banner } from "./banner";
+export { default as NavbarDashboard } from "./navbardashboard";
+export { default as Product } from "./productdashboard";
+export { default as Footer } from "./footer";

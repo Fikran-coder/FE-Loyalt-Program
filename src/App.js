@@ -9,6 +9,7 @@ import {
   Fitur,
   Profile,
 } from "@pages";
+import { Dashboard } from "./pages";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/aboutus" element={<AboutUs />} />
         <Route path="/fitur" element={<Fitur />} />
         <Route path="/profile" element={<Profile />} />
+        <Route path="/dashboard" element={<Dashboard />} />
       </Routes>
     </BrowserRouter>
   );

@@ -5,3 +5,4 @@ export { default as Landing } from "./landing";
 export { default as AboutUs } from "./aboutus";
 export { default as Fitur } from "./fitur";
 export { default as Profile } from "./profile";
+export { default as Dashboard } from "./dashboard";
